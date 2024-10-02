@@ -21,7 +21,7 @@ Ce projet vise à extraire et analyser les données du catalogue en ligne des mo
 ## Analyses effectuées
 ### 1. Statistiques sur les prix
 Une analyse de la distribution des prix a été effectuée, avec une concentration des prix entre CHF 3,000 et CHF 12,000.
-![image alt]https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis/blob/main/Distribution%20du%20prix%20des%20montres.png?raw=true
+![image alt]https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis/blob/72450b72f802803bf8557910e4bac02bdf41c3b0/Distribution%20du%20prix%20des%20montres.png
 
 ### 2. Répartition des mouvements
 Les montres automatiques représentent la majorité des produits Tag Heuer, suivies par les montres à mouvement quartz et les montres connectées.
