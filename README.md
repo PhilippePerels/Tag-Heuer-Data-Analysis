@@ -23,6 +23,17 @@ Ce projet vise à extraire et analyser les données du catalogue en ligne des mo
 Une analyse de la distribution des prix a été effectuée, avec une concentration des prix entre CHF 3,000 et CHF 12,000.
 ![image alt](https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis/blob/72450b72f802803bf8557910e4bac02bdf41c3b0/Distribution%20du%20prix%20des%20montres.png)
 
+Analyse des prix par matériau
+
+Voici quelques observations clés :
+
+Or et céramique : Se trouvent dans la tranche supérieure des prix.
+Acier et titane : Offrent des options plus abordables.
+Montres solaires et connectées : Proposent une alternative plus moderne à des prix souvent plus compétitifs.
+
+![image alt](https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis/blob/ad696b5040141019df6001e0fca11ba48604645a/Prix%20Moyen%20Par%20Mat%C3%A9riau%20Des%20Montres%20Tag%20Heuer.png)
+
+
 ### 2. Répartition des mouvements
 Les montres automatiques représentent la majorité des produits Tag Heuer, suivies par les montres à mouvement quartz et les montres connectées.
 
