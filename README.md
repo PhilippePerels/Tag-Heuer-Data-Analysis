@@ -44,6 +44,12 @@ Un nuage de points a révélé une corrélation positive entre le diamètre et l
 ## Conclusion
 Ce projet a permis de collecter et d'analyser des données pertinentes sur les montres Tag Heuer, fournissant un aperçu des principales caractéristiques et de la distribution des prix. 
 
+Limites du projet :
+Compte tenu du temps imparti, certaines informations détaillées, n'ont pas été extraites. Le focus a été mis sur les attributs comme le mouvement, le diamètre, le prix, la catégorie et le matériau. De plus, certaines catégories de produits comme les montres connectées et les lunettes ont requis des ajustements spécifiques.
+
+Perspectives :
+Pour améliorer ce projet, il serait intéressant d'extraire davantage d'informations. Il est également envisageable d'automatiser complètement le script pour scrapper tout le catalogue de manière régulière.
+
 ## Instructions pour exécuter le script
 1. Cloner ce dépôt :
 git clone https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis.git
