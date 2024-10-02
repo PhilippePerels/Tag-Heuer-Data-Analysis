@@ -26,12 +26,6 @@ Une analyse de la distribution des prix a été effectuée, avec une concentrati
 ### 2. Répartition des mouvements
 Les montres automatiques représentent la majorité des produits Tag Heuer, suivies par les montres à mouvement quartz et les montres connectées.
 
-Automatique       215
-Quartz             87
-Non applicable     37
-Connectée          19
-Solaire            14
-
 ### 3. Relation entre diamètre et prix
 Un nuage de points a révélé une corrélation positive entre le diamètre et le prix, avec une tendance à des prix plus élevés pour les montres de plus grand diamètre.
 ![image alt](https://github.com/PhilippePerels/Tag-Heuer-Data-Analysis/blob/88b44fc03ba1fb7df272d4ccfe257eb9c8ab5b9a/Relation%20entre%20le%20diam%C3%A8tre%20et%20le%20prix%20des%20montres.png)
